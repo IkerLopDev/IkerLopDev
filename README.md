@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 CS student and Software Developer<br>👯 I’m looking to collaborate on Java/Kotlin project<br>
+🔭 CS student and Software Developer
 
 
 ## 🌐 Socials:
