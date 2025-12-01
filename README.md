@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 CS student and Software Developer
+🔭 CS student and Software Developer, mostly interested in System Administration.
 
 
 ## 🌐 Socials:
