@@ -1,69 +1,89 @@
-# 💫 About Me:
-🔭 CS student and Software Developer, mostly interested in System Administration.
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Iker%20L%C3%B3pez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Systems%20%C2%B7%20Data%20%C2%B7%20Cloud&descSize=18&descAlignY=58" alt="header" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Linux+%26+systems+administration;Data+pipelines+%26+ML+that+actually+run;Docker+%C2%B7+Kubernetes+%C2%B7+Cloud;Now%3A+industrial+data+%40+Mercedes-Benz+Vitoria" alt="typing" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ike) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikedev) 
+<p align="center">
+  <img src="https://img.shields.io/badge/Bizkaia,_Basque_Country-2c5364?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Daily_driver-Fedora_KDE-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Languages-ES_%7C_EN-203a43?style=flat-square" />
+</p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
+### 👋 About me
 
+I'm Iker, a Computer Engineering graduate (UPV/EHU) who likes the part of software that lives *below* the UI: servers, containers, data flowing between systems and the models that sit on top of it. I'm steering my career towards **systems, data and cloud**, and I learn best by building things and breaking them on purpose.
 
-### SysAdmin 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
-</div>
+### ⚡ Right now
 
-</td><td valign="top" width="33%">
+| | |
+|---|---|
+| 🎓 | **MSc in Data Analytics, Cybersecurity & Cloud Computing** at Mondragon Unibertsitatea (dual track) |
+| 🏭 | **Dual internship at Mercedes-Benz Vitoria**: industrial data, automation and ML on the assembly process side |
+| 🖥️ | Setting up a **homelab** on a ThinkCentre M720q to practise Linux administration, networking and self-hosting |
+| 📚 | Learning **Terraform, CI/CD and AWS**, with Kubernetes certification (CKA) on the horizon |
 
+### 🛠️ Where I've been
 
+**Software Engineer @ Abaktech** (2026) — built my final degree project there, *Project Narbala* (graded 9/10): an IoT device management platform plus an ML microservice that forecasts sensor data with uncertainty intervals. Python, FastAPI, LightGBM, InfluxDB, MySQL and Docker, with a React dashboard on top. *(Private repo, company project.)*
 
-### Languages  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-</div>
+### 🧪 From the lab
 
-</td><td valign="top" width="33%">
+| Project | What it is | Stack |
+|---|---|---|
+| [KDE-Plasma-NotesGymOcupation](https://github.com/IkerLopDev/KDE-Plasma-NotesGymOcupation) | Pulls live occupancy from Google Maps and drops it into a KDE Plasma sticky note on my desktop | Python, Linux |
+| [PLC_MECLAB_FESTO_3_STATION](https://github.com/IkerLopDev/PLC_MECLAB_FESTO_3_STATION) | Automation project for a Festo MecLab 3-station line | QML, PLC |
+| [ASM_WASHING_MACHINE](https://github.com/IkerLopDev/ASM_WASHING_MACHINE) | Washing machine controller written in assembly | ASM |
+| [ScriptsSGSSI](https://github.com/IkerLopDev/ScriptsSGSSI) | Security and information systems management scripts | Python |
 
+### 🧰 Toolbox
 
+**Systems & Cloud**
 
-### Platforms and Others
-<div align="center">  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,nginx,git,gcp&perline=10" />
+</p>
 
-</td></tr></table>  
+**Data & ML**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IkerLopDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=IkerLopDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IkerLopDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,mysql,grafana,kafka,elasticsearch&perline=10" />
+  <br/>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IkerLopDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**Also comfortable with**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,react,latex&perline=10" />
+</p>
 
+### 📊 Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IkerLopDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkerLopDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=IkerLopDev&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+### 📫 Find me
+
+<p>
+  <!-- Pon aquí tu URL de LinkedIn -->
+  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/ikedev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/ike"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
+</p>
