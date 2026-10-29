@@ -78,7 +78,7 @@ I'm Iker, a Computer Engineering graduate (UPV/EHU) who likes the part of softwa
 
 <p>
   <!-- Pon aquí tu URL de LinkedIn -->
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iker-l%C3%B3pez-aldonza-54ba152a4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2aVdbJwVTwGqWsmlkDbxjQ%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/ikedev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://instagram.com/ike"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
