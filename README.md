@@ -68,8 +68,7 @@ I'm Iker, a Computer Engineering graduate (UPV/EHU) who likes the part of softwa
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://TU-DOMINIO.vercel.app/api?username=IkerLopDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true" />
-  <img height="165" src="https://TU-DOMINIO.vercel.app/api/top-langs/?username=IkerLopDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="165" src="./profile/top-langs.svg" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=IkerLopDev&theme=tokyonight&hide_border=true&background=00000000" />
